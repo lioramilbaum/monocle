@@ -10,6 +10,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Changed
 ### Removed
 ### Fixed
+
+- [crawler] Add missing change url field for gerrit events
+
 ### Upgrade
 
 ## [0.8.1] - 2021-02-15
