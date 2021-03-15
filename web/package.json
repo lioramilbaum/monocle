@@ -7,7 +7,7 @@
     "bootstrap": "^4.5.3",
     "bootstrap-icons": "^1.3.0",
     "chart.js": "^2.9.4",
-    "interweave": "^12.6.0",
+    "interweave": "^12.7.0",
     "interweave-autolink": "^4.3.0",
     "moment": "2.24.0",
     "react": "^16.14.0",
